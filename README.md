@@ -23,7 +23,7 @@ This assignment does not assume any particular setup. To install the dependencie
 ## Self-Evaluation:
 <!-- Please fill out the following self-evaluation. -->
 <!-- ⛔️ Make sure you account for any extra credit points you do in this assignment. -->
-Out of 20 points for this assignment, I should get (...). points
+Out of 20 points for this assignment, I should get (19). points
 
 ## Citations
 <!-- Cite any resources you used in solving this assignment; This includes any individuals/classmates you worked with or sought help from -->
